@@ -1,4 +1,4 @@
-### Hello, my name is João Paulo Albuquerque. I am an environmental engineer working on data analysis and data science projects. I have experience in application of projects aimed at Environmental Engineering and Data Analysis and Data Engineering.
+### Hello, my name is João Paulo Albuquerque. I am an environmental engineer working on data engineering and data science projects. I have experience in application of projects aimed at Environmental Engineering and Data Analysis and Data Engineering.
 
 ### I'll use this page as a portfolio of my projects in data engineering, science and analysis.
 
